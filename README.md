@@ -1,5 +1,7 @@
 # EI-Web
 
+[A connaître pour EI 1.pdf](https://github.com/maximilien00/EI-Web/files/11057425/A.connaitre.pour.EI.1.pdf)
+
 # Bootstrap 4
 
 ### Site officiel de la documentation : https://getbootstrap.com/docs/4.6/getting-started/introduction/ 
